@@ -218,6 +218,22 @@
         60,
         61,
         62,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
         63,
         64,
         65,
@@ -262,23 +278,7 @@
         104,
         105,
         106,
-        107,
-        108,
-        109,
-        110,
-        111,
-        112,
-        113,
-        114,
-        115,
-        116,
-        117,
-        118,
-        119,
-        120,
-        121,
-        122,
-        123
+        107
       ],
       "beats_in_measure": [
         4,
@@ -405,12 +405,15 @@
         2,
         2
       ],
-      "measures_to_force_display": [],
+      "measures_to_force_display": [
+        62,
+        78
+      ],
       "height": 35,
       "is_visible": true,
       "name": "Measures",
       "ordinal": 2,
-      "hash": "ee762e240730cd62c683b21730002d02",
+      "hash": "d19a9b1da403326cd225db840b4a970e",
       "components": {
         "3": {
           "time": 2.925,
@@ -2136,7 +2139,7 @@
       "components_hash": "b510bf2b5bb0a27d7cfdcf0b408beb83"
     }
   },
-  "timelines_hash": "d51c9a9ea1e020dc16f2aa200ef0287c",
+  "timelines_hash": "1d5a73cbadd90a59f8d6d939a91c9285",
   "app_name": "TiLiA",
   "version": "0.5.0"
 }
