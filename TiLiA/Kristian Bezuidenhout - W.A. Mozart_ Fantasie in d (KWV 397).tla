@@ -1053,9 +1053,9 @@
           "hash": "5b54af6bcb37be120e1cdeb24e7ab070"
         },
         "131": {
-          "time": 125.736,
+          "time": 125.66557230383019,
           "kind": "BEAT",
-          "hash": "a0f7305de3539a1faca796269c4b022d"
+          "hash": "ebc9f81e59fa18f84d14552bf23c9f09"
         },
         "132": {
           "time": 126.479,
@@ -1422,721 +1422,2046 @@
           "kind": "BEAT",
           "hash": "ceb67b3e0f2e2ba460ac91fc6ea7fd85"
         },
-        "211": {
+        "205": {
           "time": 219.521,
           "kind": "BEAT",
           "hash": "0c81a99cd4316a5e7ba24c14445442d8"
         },
-        "212": {
+        "206": {
           "time": 228.53,
           "kind": "BEAT",
           "hash": "67cd8624ed3fe87816e02fe29b0f6fc5"
         },
-        "213": {
+        "207": {
           "time": 229.366,
           "kind": "BEAT",
           "hash": "97c5abc44c8a7b84c026e5394c7f3c73"
         },
-        "214": {
+        "208": {
           "time": 231.015,
           "kind": "BEAT",
           "hash": "967cc4438efb58ba58321967b4c38bd5"
         },
-        "215": {
+        "209": {
           "time": 232.571,
           "kind": "BEAT",
           "hash": "90d7b82620783e56f716c4318466337d"
         },
-        "228": {
+        "210": {
           "time": 236.007,
           "kind": "BEAT",
           "hash": "d86c02b567c9d840c8336236322071ee"
         },
-        "230": {
+        "211": {
           "time": 236.402,
           "kind": "BEAT",
           "hash": "5148796f82595f7e87495d0a8f240a0f"
         },
-        "231": {
+        "212": {
           "time": 236.843,
           "kind": "BEAT",
           "hash": "8b1b605cd73646de68753739bfa22d41"
         },
-        "232": {
+        "213": {
           "time": 237.284,
           "kind": "BEAT",
           "hash": "6d3e3eedceb89de21d9e77857d12d79b"
         },
-        "233": {
+        "214": {
           "time": 237.702,
           "kind": "BEAT",
           "hash": "f029889e4f4c91486ab76d8c7006e65a"
         },
-        "234": {
+        "215": {
           "time": 238.143,
           "kind": "BEAT",
           "hash": "3df10ef777a63691d3b11b8b5a8e7ae5"
         },
-        "235": {
+        "216": {
           "time": 238.492,
           "kind": "BEAT",
           "hash": "ccc64f3c5182e7955a3cf6a99121b188"
         },
-        "236": {
+        "217": {
           "time": 238.933,
           "kind": "BEAT",
           "hash": "1d02640f2786960aaf8ce56b72de0ac1"
         },
-        "237": {
+        "218": {
           "time": 239.351,
           "kind": "BEAT",
           "hash": "9a589abafbfcab75e254f46f96404ecf"
         },
-        "238": {
+        "219": {
           "time": 239.699,
           "kind": "BEAT",
           "hash": "aba711831c473cd644f58b324ecb1b1e"
         },
-        "239": {
+        "220": {
           "time": 240.001,
           "kind": "BEAT",
           "hash": "be903f5d23cd6f7810b5ea5dae84d0ff"
         },
-        "240": {
+        "221": {
           "time": 240.442,
           "kind": "BEAT",
           "hash": "964f6a9a657d230bdc70f4e3d4100ce2"
         },
-        "241": {
+        "222": {
           "time": 240.79,
           "kind": "BEAT",
           "hash": "5c7c8670143012cfd676cc4364cbb9ef"
         },
-        "242": {
+        "223": {
           "time": 241.348,
           "kind": "BEAT",
           "hash": "775522afb1bf80822deebcdd02fe5023"
         },
-        "243": {
+        "224": {
           "time": 241.859,
           "kind": "BEAT",
           "hash": "0ef84d22fa1c7c785a3abd70ebcf246c"
         },
-        "244": {
+        "225": {
           "time": 242.439,
           "kind": "BEAT",
           "hash": "1f2548fed94dbc900925b19bf4529c1d"
         },
-        "245": {
+        "226": {
           "time": 242.834,
           "kind": "BEAT",
           "hash": "f6d1ed9af32eacf9a9c0c4c46225cfdc"
         },
-        "246": {
+        "227": {
           "time": 243.484,
           "kind": "BEAT",
           "hash": "ef7609ac4fb2d3e0a1b89da63392a5bb"
         },
-        "247": {
+        "228": {
           "time": 244.041,
           "kind": "BEAT",
           "hash": "781d192b213262d1782ba89fc09970a4"
         },
-        "248": {
+        "229": {
           "time": 244.39,
           "kind": "BEAT",
           "hash": "d7cf3d848e0df340d03ae3edc41cc6ff"
         },
-        "249": {
+        "230": {
           "time": 244.691,
           "kind": "BEAT",
           "hash": "a1d2cf63728296d67c395bbcfc011cc6"
         },
-        "250": {
+        "231": {
           "time": 245.133,
           "kind": "BEAT",
           "hash": "cbfec28dda8f6265e0ea0c565f9131f3"
         },
-        "251": {
+        "232": {
           "time": 245.504,
           "kind": "BEAT",
           "hash": "2e69e007905fc8c15908b426838476e2"
         },
-        "252": {
+        "233": {
           "time": 245.899,
           "kind": "BEAT",
           "hash": "a99bb7ab7b14d43083f329560b8dbaac"
         },
-        "253": {
+        "234": {
           "time": 246.34,
           "kind": "BEAT",
           "hash": "3e7926e0a236fae52ea765c190f5d7c0"
         },
-        "254": {
+        "235": {
           "time": 246.688,
           "kind": "BEAT",
           "hash": "5d87f31ce98654fce86510f020294937"
         },
-        "255": {
+        "236": {
           "time": 247.246,
           "kind": "BEAT",
           "hash": "7690667f0a622cc0cbaa382f3983b147"
         },
-        "256": {
+        "237": {
           "time": 247.547,
           "kind": "BEAT",
           "hash": "7a659282c368104c296bceba051b74d1"
         },
-        "257": {
+        "238": {
           "time": 247.896,
           "kind": "BEAT",
           "hash": "a7c0cbfbca5608c840252d23e74035c4"
         },
-        "258": {
+        "239": {
           "time": 248.337,
           "kind": "BEAT",
           "hash": "89b4932e12039681be0e253d46ec35b2"
         },
-        "259": {
+        "240": {
           "time": 248.755,
           "kind": "BEAT",
           "hash": "7e3f1de21884c8451311fb65738d14d7"
         },
-        "260": {
+        "241": {
           "time": 249.289,
           "kind": "BEAT",
           "hash": "ab2d9c116ddc50d476e0ede8ffa52a2b"
         },
-        "261": {
+        "242": {
           "time": 249.753,
           "kind": "BEAT",
           "hash": "5b7421e16f2724cac9afbcc94f2dbbcc"
         },
-        "262": {
+        "243": {
           "time": 250.195,
           "kind": "BEAT",
           "hash": "5fffa5a124425e13c4064fe249b8c8c7"
         },
-        "263": {
+        "244": {
           "time": 250.496,
           "kind": "BEAT",
           "hash": "9ea8891567181a6e89b8b0d61c5337bb"
         },
-        "264": {
+        "245": {
           "time": 250.938,
           "kind": "BEAT",
           "hash": "4e6e88c939e89e56d72f37321074191c"
         },
-        "265": {
+        "246": {
           "time": 251.286,
           "kind": "BEAT",
           "hash": "b0ea25e8d72143b73ff1a3ea8fed86fa"
         },
-        "266": {
+        "247": {
           "time": 251.704,
           "kind": "BEAT",
           "hash": "2a97080587a3eb3e1c0679af38c23d5c"
         },
-        "267": {
+        "248": {
           "time": 252.052,
           "kind": "BEAT",
           "hash": "76299187401d93afdab443c8ce56ca55"
         },
-        "268": {
+        "249": {
           "time": 252.493,
           "kind": "BEAT",
           "hash": "09ef21d3104b45e19bed4951e30be2db"
         },
-        "269": {
+        "250": {
           "time": 252.795,
           "kind": "BEAT",
           "hash": "bac78fedc93ad3d1b1ac0bca1e14c968"
         },
-        "270": {
+        "251": {
           "time": 253.236,
           "kind": "BEAT",
           "hash": "add5bbb267b2f6d347f5bb0cfa0c6da9"
         },
-        "271": {
+        "252": {
           "time": 253.701,
           "kind": "BEAT",
           "hash": "a2022169c533948cb2cf50dd0966b450"
         },
-        "272": {
+        "253": {
           "time": 254.003,
           "kind": "BEAT",
           "hash": "af2d22577a52918ff325968661e74586"
         },
-        "273": {
+        "254": {
           "time": 254.444,
           "kind": "BEAT",
           "hash": "cc1033130efa0ea97678a8a9b3730e4d"
         },
-        "274": {
+        "255": {
           "time": 254.885,
           "kind": "BEAT",
           "hash": "a00a7db34248785206e57d634e0f3ae7"
         },
-        "275": {
+        "256": {
           "time": 255.442,
           "kind": "BEAT",
           "hash": "a2ed4794cb8b2719a5c4bc961e28ccc7"
         },
-        "276": {
+        "257": {
           "time": 255.883,
           "kind": "BEAT",
           "hash": "d9e16d35eb839727a805906161651519"
         },
-        "277": {
+        "258": {
           "time": 256.185,
           "kind": "BEAT",
           "hash": "ae802787356cda5a484e91fbb71c4885"
         },
-        "278": {
+        "259": {
           "time": 256.835,
           "kind": "BEAT",
           "hash": "2f51d9ba4f720c688ae2f25d98e3ae8f"
         },
-        "279": {
+        "260": {
           "time": 257.091,
           "kind": "BEAT",
           "hash": "8ab6e3cc537c3cc430e60febbc1841e9"
         },
-        "280": {
+        "261": {
           "time": 257.393,
           "kind": "BEAT",
           "hash": "72dc2be5188f97978cf39b30abb14c86"
         },
-        "281": {
+        "262": {
           "time": 257.95,
           "kind": "BEAT",
           "hash": "322a8a6a085c2c0e33db9686829c39d6"
         },
-        "282": {
+        "263": {
           "time": 258.391,
           "kind": "BEAT",
           "hash": "05b08aa0d0b7fdb8a2395b50853fbe6e"
         },
-        "283": {
+        "264": {
           "time": 258.693,
           "kind": "BEAT",
           "hash": "eab217aaaceafa94b9a9d20bc8260fd5"
         },
-        "284": {
+        "265": {
           "time": 259.041,
           "kind": "BEAT",
           "hash": "393c2ff44bd0e486d3f3acce8c046312"
         },
-        "285": {
+        "266": {
           "time": 259.482,
           "kind": "BEAT",
           "hash": "292e53ce1c1eb0661728b3a6bd441363"
         },
-        "286": {
+        "267": {
           "time": 259.9,
           "kind": "BEAT",
           "hash": "f7533b542a003b6b330b56ba81154325"
         },
-        "287": {
+        "268": {
           "time": 260.249,
           "kind": "BEAT",
           "hash": "c930aa47a5a2cf93fb42b44089fa90f4"
         },
-        "288": {
+        "269": {
           "time": 260.69,
           "kind": "BEAT",
           "hash": "e32f6aac78e04471b1c76efaff323c05"
         },
-        "289": {
+        "270": {
           "time": 261.038,
           "kind": "BEAT",
           "hash": "a49bdcee2add90368e5ed7fe8f5220c6"
         },
-        "290": {
+        "271": {
           "time": 261.433,
           "kind": "BEAT",
           "hash": "5c2409d735e16d48dabf19dfeeab3770"
         },
-        "291": {
+        "272": {
           "time": 261.897,
           "kind": "BEAT",
           "hash": "d6d6d6804ef0fa1950d505391ee6257d"
         },
-        "292": {
+        "273": {
           "time": 262.339,
           "kind": "BEAT",
           "hash": "c2f7ee23d7258ff568d4e452bf7a5af0"
         },
-        "293": {
+        "274": {
           "time": 262.64,
           "kind": "BEAT",
           "hash": "fa519ff20195d7ad15f12a3eab47a50b"
         },
-        "294": {
+        "275": {
           "time": 263.105,
           "kind": "BEAT",
           "hash": "01a2ac4335ec8bb8dd71d9d9789bf4bd"
         },
-        "295": {
+        "276": {
           "time": 263.383,
           "kind": "BEAT",
           "hash": "1bb1fa67176d76b4ae6ec8e346386619"
         },
-        "296": {
+        "277": {
           "time": 263.848,
           "kind": "BEAT",
           "hash": "73b3ef132643e7537703ddde5b0a3024"
         },
-        "297": {
+        "278": {
           "time": 264.196,
           "kind": "BEAT",
           "hash": "51c5e1353224a0045b913ca5d3af3e87"
         },
-        "298": {
+        "279": {
           "time": 264.637,
           "kind": "BEAT",
           "hash": "19733ccfd4c5f6b81bb0ece95e462df7"
         },
-        "299": {
+        "280": {
           "time": 264.939,
           "kind": "BEAT",
           "hash": "72817a409c3bbcc5636f89185209a1b0"
         },
-        "300": {
+        "281": {
           "time": 265.404,
           "kind": "BEAT",
           "hash": "70e60ca71baa646a597f273c7c467eeb"
         },
-        "301": {
+        "282": {
           "time": 265.705,
           "kind": "BEAT",
           "hash": "a59f39914b439923ade1ab8dc8e2466d"
         },
-        "302": {
+        "283": {
           "time": 266.054,
           "kind": "BEAT",
           "hash": "65880522458065b27ac768a04c43110a"
         },
-        "303": {
+        "284": {
           "time": 266.402,
           "kind": "BEAT",
           "hash": "b58704d5eda6b3740eba658f9b80618c"
         },
-        "304": {
+        "285": {
           "time": 266.797,
           "kind": "BEAT",
           "hash": "9433758846f1bb56159e881afbcc4428"
         },
-        "305": {
+        "286": {
           "time": 267.238,
           "kind": "BEAT",
           "hash": "70eeacffa8c264a305a2127d6d201215"
         },
-        "306": {
+        "287": {
           "time": 267.586,
           "kind": "BEAT",
           "hash": "e060300c184789860410412dbdef966d"
         },
-        "307": {
+        "288": {
           "time": 268.144,
           "kind": "BEAT",
           "hash": "e7097078c996689ab25cb64246c41e42"
         },
-        "308": {
+        "289": {
           "time": 268.538,
           "kind": "BEAT",
           "hash": "0f071e15b3800e0439c60ff0952c2e5b"
         },
-        "309": {
+        "290": {
           "time": 268.887,
           "kind": "BEAT",
           "hash": "18878d92a9f9196022567a9bf272ab8e"
         },
-        "310": {
+        "291": {
           "time": 269.188,
           "kind": "BEAT",
           "hash": "ecbfaae2d9bff45badf6776c20efe8bb"
         },
-        "311": {
+        "292": {
           "time": 269.653,
           "kind": "BEAT",
           "hash": "b9131abd4061731b9bdcdaf0f7a3841a"
         },
-        "312": {
+        "293": {
           "time": 270.001,
           "kind": "BEAT",
           "hash": "dc51fb3dc068c8e258b252e630194110"
         },
-        "313": {
+        "294": {
           "time": 270.442,
           "kind": "BEAT",
           "hash": "e5e12e9c252e9d54a02e3d49aea4bcbd"
         },
-        "314": {
+        "295": {
           "time": 270.744,
           "kind": "BEAT",
           "hash": "5409b11db15366db555f4bb2816216a0"
         },
-        "315": {
+        "296": {
           "time": 271.092,
           "kind": "BEAT",
           "hash": "e20984b3aff972902933e08dea76f059"
         },
-        "316": {
+        "297": {
           "time": 271.487,
           "kind": "BEAT",
           "hash": "72a18c11905913d4a40550ab704e47aa"
         },
-        "317": {
+        "298": {
           "time": 271.836,
           "kind": "BEAT",
           "hash": "41aa57ccc4f6978f4803e4b4f811c111"
         },
-        "318": {
+        "299": {
           "time": 272.3,
           "kind": "BEAT",
           "hash": "21dc70a3e46d51bf1e46daaf3dcc71ea"
         },
-        "319": {
+        "300": {
           "time": 272.602,
           "kind": "BEAT",
           "hash": "1edae9ff13547438429646846f41528f"
         },
-        "320": {
+        "301": {
           "time": 273.136,
           "kind": "BEAT",
           "hash": "b6e132245ccba3d5a477dd533ade5f02"
         },
-        "321": {
+        "302": {
           "time": 273.484,
           "kind": "BEAT",
           "hash": "e61da20e4540088851d34f177c261e41"
         },
-        "322": {
+        "303": {
           "time": 274.041,
           "kind": "BEAT",
           "hash": "fd7b41672744eced014dbb3ac19b9623"
         },
-        "323": {
+        "304": {
           "time": 274.436,
           "kind": "BEAT",
           "hash": "9b11bbfcdba3d80a359a9ebdbf07afb4"
         },
-        "324": {
+        "305": {
           "time": 298.306,
           "kind": "BEAT",
           "hash": "a999d242f0c97420ccff463b79377547"
         },
-        "325": {
+        "306": {
           "time": 298.655,
           "kind": "BEAT",
           "hash": "023d5ef58068810a76da18183444a631"
         },
-        "326": {
+        "307": {
           "time": 298.933,
           "kind": "BEAT",
           "hash": "66b55ae033ea879917dc93dee0af83e0"
         },
-        "327": {
+        "308": {
           "time": 299.305,
           "kind": "BEAT",
           "hash": "3f96c0c7467f8b3653f3a541052650a7"
         },
-        "328": {
+        "309": {
           "time": 299.746,
           "kind": "BEAT",
           "hash": "326ee2374b2350e37303666590f2706f"
         },
-        "329": {
+        "310": {
           "time": 300.187,
           "kind": "BEAT",
           "hash": "e4c43cb86a0bbca2edc8f7fb9b44cda9"
         },
-        "330": {
+        "311": {
           "time": 300.489,
           "kind": "BEAT",
           "hash": "97c5e5d7dbff86d6b0aa3bebd8eb9f5d"
         },
-        "331": {
+        "312": {
           "time": 300.953,
           "kind": "BEAT",
           "hash": "e87f661a174f0dcec11964fd83ad2e83"
         },
-        "332": {
+        "313": {
           "time": 301.395,
           "kind": "BEAT",
           "hash": "a129aef2951c6c3f40b15312eba57257"
         },
-        "333": {
+        "314": {
           "time": 301.696,
           "kind": "BEAT",
           "hash": "207708909ceff702c21f64dc3f054cd2"
         },
-        "334": {
+        "315": {
           "time": 302.138,
           "kind": "BEAT",
           "hash": "ebe713fcfd5ca2e11289b0e4b04c74d9"
         },
-        "335": {
+        "316": {
           "time": 302.602,
           "kind": "BEAT",
           "hash": "9e9f8c2e139e865d95acac5a03a74ad2"
         },
-        "336": {
+        "317": {
           "time": 302.904,
           "kind": "BEAT",
           "hash": "c71cbe8100501ba200190840c0fe6edb"
         },
-        "337": {
+        "318": {
           "time": 303.345,
           "kind": "BEAT",
           "hash": "b95cd1f98db76b9bb8957998c44ed761"
         },
-        "338": {
+        "319": {
           "time": 303.647,
           "kind": "BEAT",
           "hash": "2a2c3c1d11127bb9f3f35d16bd2b515c"
         },
-        "339": {
+        "320": {
           "time": 304.088,
           "kind": "BEAT",
           "hash": "f2636b8686a84feb1e6c13a831bc07a3"
         },
-        "340": {
+        "321": {
           "time": 304.552,
           "kind": "BEAT",
           "hash": "efa9a277218dfa9237ea53380cd78554"
         },
-        "341": {
+        "322": {
           "time": 304.994,
           "kind": "BEAT",
           "hash": "b9c7b32f6fd365bd1ac7541403498893"
         },
-        "342": {
+        "323": {
           "time": 305.435,
           "kind": "BEAT",
           "hash": "dcdddb6b2566d66d5db9fd91131484f3"
         },
-        "343": {
+        "324": {
           "time": 305.853,
           "kind": "BEAT",
           "hash": "b292daaf852b1b3f9abcb031d9b1548b"
         },
-        "344": {
+        "325": {
           "time": 306.294,
           "kind": "BEAT",
           "hash": "a8b764cfb5071e1a391d38127d03c50c"
         },
-        "345": {
+        "326": {
           "time": 306.944,
           "kind": "BEAT",
           "hash": "3b3c52b7a82a1f4a6f3556cfc2be12ea"
         },
-        "346": {
+        "327": {
           "time": 308.152,
           "kind": "BEAT",
           "hash": "24c23a0de0a5eda46e9dd21091d19f07"
         },
-        "347": {
+        "328": {
           "time": 308.5,
           "kind": "BEAT",
           "hash": "4cff5c76394606a2199c0b712d095cfb"
         },
-        "348": {
+        "329": {
           "time": 308.802,
           "kind": "BEAT",
           "hash": "a101eb55cd0e2e8f5ee7b0253f7b9dfc"
         },
-        "349": {
+        "330": {
           "time": 309.15,
           "kind": "BEAT",
           "hash": "125399dfd88286d9a393830e5418c75a"
         },
-        "350": {
+        "331": {
           "time": 309.591,
           "kind": "BEAT",
           "hash": "ee9bf5359ca3575974d66b0f891f85ba"
         },
-        "351": {
+        "332": {
           "time": 309.986,
           "kind": "BEAT",
           "hash": "a7583af88d891e301a70c647b22fa979"
         },
-        "352": {
+        "333": {
           "time": 310.334,
           "kind": "BEAT",
           "hash": "eb1a725475598370d2eba4be4b56752a"
         },
-        "353": {
+        "334": {
           "time": 310.799,
           "kind": "BEAT",
           "hash": "e86b09a5bb624277739f3e9261116e7a"
         },
-        "354": {
+        "335": {
           "time": 311.24,
           "kind": "BEAT",
           "hash": "785ecf86e97376739e35ceb03b289e60"
         },
-        "355": {
+        "336": {
           "time": 311.542,
           "kind": "BEAT",
           "hash": "e7f31d45bfc6db154c36147066a5b763"
         },
-        "356": {
+        "337": {
           "time": 311.89,
           "kind": "BEAT",
           "hash": "faab8055d63ce8d7c0eb7e95712eb5ce"
         },
-        "357": {
+        "338": {
           "time": 312.285,
           "kind": "BEAT",
           "hash": "d7dd48c09a66e1d0b5bf5fb3bb118cdb"
         },
-        "358": {
+        "339": {
           "time": 312.633,
           "kind": "BEAT",
           "hash": "2caaef63f98736b2952fadeef7835cd2"
         },
-        "359": {
+        "340": {
           "time": 312.935,
           "kind": "BEAT",
           "hash": "4a8f0f53ba7382bcd1ceb73007faf0ab"
         },
-        "360": {
+        "341": {
           "time": 313.399,
           "kind": "BEAT",
           "hash": "eb63f8bd3cce7c24afc9abea2407e509"
         },
-        "361": {
+        "342": {
           "time": 313.748,
           "kind": "BEAT",
           "hash": "35d3269ea14e1cc1ea2940274ecf4962"
         },
-        "362": {
+        "343": {
           "time": 314.049,
           "kind": "BEAT",
           "hash": "986044ea27a5e3045c0bc384997f0520"
         },
-        "363": {
+        "344": {
           "time": 314.398,
           "kind": "BEAT",
           "hash": "6dbcd91a42dd1254e0e95b6c5118e16c"
         },
-        "364": {
+        "345": {
           "time": 314.839,
           "kind": "BEAT",
           "hash": "58831b48e3e9bc3dc808403a64647dfd"
         },
-        "365": {
+        "346": {
           "time": 315.489,
           "kind": "BEAT",
           "hash": "a066bb7bca4dc5eb8655705521cb70b3"
         }
       },
-      "components_hash": "b510bf2b5bb0a27d7cfdcf0b408beb83"
+      "components_hash": "6583dd2ef712f3cfa7c94698d0a43e61"
+    },
+    "347": {
+      "kind": "HIERARCHY_TIMELINE",
+      "name": "Form",
+      "height": 185,
+      "is_visible": true,
+      "ordinal": 3,
+      "hash": "65b2761ad73b1ec872b47e9c6ceeec03",
+      "components": {
+        "393": {
+          "start": 54.334,
+          "pre_start": 54.334,
+          "end": 62.275,
+          "post_end": 62.275,
+          "level": 1,
+          "label": "b.i.",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 390,
+          "children": [],
+          "kind": "HIERARCHY",
+          "hash": "6905e05d90255c8c214d63f9c4e532cb"
+        },
+        "394": {
+          "start": 62.275,
+          "pre_start": 62.275,
+          "end": 69.66808888539336,
+          "post_end": 69.66808888539336,
+          "level": 1,
+          "label": "b.i.",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 390,
+          "children": [],
+          "kind": "HIERARCHY",
+          "hash": "721d01f6492db4da6275be4624880308"
+        },
+        "404": {
+          "start": 96.641,
+          "pre_start": 96.641,
+          "end": 101.889,
+          "post_end": 101.889,
+          "level": 1,
+          "label": "",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 402,
+          "children": [],
+          "kind": "HIERARCHY",
+          "hash": "aad1a3d7f287d9269883f8c567284518"
+        },
+        "406": {
+          "start": 101.889,
+          "pre_start": 101.889,
+          "end": 106.672,
+          "post_end": 106.672,
+          "level": 1,
+          "label": "",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 402,
+          "children": [],
+          "kind": "HIERARCHY",
+          "hash": "5aee9cb9a190c831b5d6b18b4b5f9d4c"
+        },
+        "407": {
+          "start": 106.672,
+          "pre_start": 106.672,
+          "end": 109.342,
+          "post_end": 109.342,
+          "level": 1,
+          "label": "",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 402,
+          "children": [],
+          "kind": "HIERARCHY",
+          "hash": "c0b98ca6483bbe932248669165df2443"
+        },
+        "433": {
+          "start": 112.732,
+          "pre_start": 112.732,
+          "end": 119.28,
+          "post_end": 119.28,
+          "level": 1,
+          "label": "b.i.",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 428,
+          "children": [],
+          "kind": "HIERARCHY",
+          "hash": "598d6cf46b31400810f893c379c67167"
+        },
+        "434": {
+          "start": 119.28,
+          "pre_start": 119.28,
+          "end": 130.24,
+          "post_end": 130.24,
+          "level": 1,
+          "label": "(b.i.)' frag.",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 428,
+          "children": [],
+          "kind": "HIERARCHY",
+          "hash": "936aae729dcf7fbb01747e84c06fed77"
+        },
+        "436": {
+          "start": 153.739,
+          "pre_start": 153.739,
+          "end": 159.172,
+          "post_end": 159.172,
+          "level": 1,
+          "label": "",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 424,
+          "children": [],
+          "kind": "HIERARCHY",
+          "hash": "dd9eead1550475dfd0a47d99585a6c8d"
+        },
+        "438": {
+          "start": 159.172,
+          "pre_start": 159.172,
+          "end": 163.932,
+          "post_end": 163.932,
+          "level": 1,
+          "label": "",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 424,
+          "children": [],
+          "kind": "HIERARCHY",
+          "hash": "fa0e9541b2bee63183278882c4b9d08a"
+        },
+        "440": {
+          "start": 163.932,
+          "pre_start": 163.932,
+          "end": 166.533,
+          "post_end": 166.533,
+          "level": 1,
+          "label": "",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 424,
+          "children": [],
+          "kind": "HIERARCHY",
+          "hash": "b356f567bd8d4394a4b3e93807216d9f"
+        },
+        "441": {
+          "start": 166.533,
+          "pre_start": 166.533,
+          "end": 169.482,
+          "post_end": 169.482,
+          "level": 1,
+          "label": "",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 424,
+          "children": [],
+          "kind": "HIERARCHY",
+          "hash": "14d2eb51aad9407806588d067e5ee109"
+        },
+        "449": {
+          "start": 199.134,
+          "pre_start": 199.134,
+          "end": 208.886,
+          "post_end": 208.886,
+          "level": 1,
+          "label": "c.i.",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 447,
+          "children": [],
+          "kind": "HIERARCHY",
+          "hash": "702d28828f91e0bb22c8753aeaae17a1"
+        },
+        "451": {
+          "start": 208.886,
+          "pre_start": 208.886,
+          "end": 219.521,
+          "post_end": 219.521,
+          "level": 1,
+          "label": "frag",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 447,
+          "children": [],
+          "kind": "HIERARCHY",
+          "hash": "da4358dbf763bb4c28c0c5f96ee56be1"
+        },
+        "452": {
+          "start": 219.521,
+          "pre_start": 219.521,
+          "end": 236.007,
+          "post_end": 236.007,
+          "level": 1,
+          "label": "cad",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 447,
+          "children": [],
+          "kind": "HIERARCHY",
+          "hash": "1719220507026eb2e08bab599386a274"
+        },
+        "474": {
+          "start": 236.007,
+          "pre_start": 236.007,
+          "end": 239.351,
+          "post_end": 239.351,
+          "level": 1,
+          "label": "comp b.i.",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 461,
+          "children": [],
+          "kind": "HIERARCHY",
+          "hash": "ee903b21a499a8744dae419b7c46d61a"
+        },
+        "475": {
+          "start": 239.351,
+          "pre_start": 239.351,
+          "end": 242.834,
+          "post_end": 242.834,
+          "level": 1,
+          "label": "cont",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 461,
+          "children": [],
+          "kind": "HIERARCHY",
+          "hash": "05d8fc17bc7a39b5b24d180d7ac16c61"
+        },
+        "477": {
+          "start": 249.753,
+          "pre_start": 249.753,
+          "end": 252.795,
+          "post_end": 252.795,
+          "level": 1,
+          "label": "ant",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 468,
+          "children": [],
+          "kind": "HIERARCHY",
+          "hash": "18fd8a4375368c3ef6bda3ade6f6c9e4"
+        },
+        "478": {
+          "start": 252.795,
+          "pre_start": 252.795,
+          "end": 256.185,
+          "post_end": 256.185,
+          "level": 1,
+          "label": "cont",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 468,
+          "children": [],
+          "kind": "HIERARCHY",
+          "hash": "639b22b099efbbce3b59ffd7584ef22a"
+        },
+        "390": {
+          "start": 54.334,
+          "pre_start": 54.334,
+          "end": 69.66808888539336,
+          "post_end": 69.66808888539336,
+          "level": 2,
+          "label": "presentation",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 399,
+          "children": [
+            393,
+            394
+          ],
+          "kind": "HIERARCHY",
+          "hash": "6d3e6d8528c224ccc13d131ac71b72e4"
+        },
+        "397": {
+          "start": 69.66808888539336,
+          "pre_start": 69.66808888539336,
+          "end": 84.636,
+          "post_end": 84.636,
+          "level": 2,
+          "label": "continuation",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 399,
+          "children": [],
+          "kind": "HIERARCHY",
+          "hash": "0d9d5b5c935064ef7d125afc5ce14902"
+        },
+        "401": {
+          "start": 84.636,
+          "pre_start": 84.636,
+          "end": 96.641,
+          "post_end": 96.641,
+          "level": 2,
+          "label": "3er",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "establishes a-minor (like a subordinate theme); gives impression of an insertion",
+          "parent": 400,
+          "children": [],
+          "kind": "HIERARCHY",
+          "hash": "d809e40e768291c97aaae7d7e61610e4"
+        },
+        "402": {
+          "start": 96.641,
+          "pre_start": 96.641,
+          "end": 109.342,
+          "post_end": 109.342,
+          "level": 2,
+          "label": "4er+",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 400,
+          "children": [
+            404,
+            406,
+            407
+          ],
+          "kind": "HIERARCHY",
+          "hash": "fac1fa920f3097f69189e8d20421a51c"
+        },
+        "428": {
+          "start": 112.732,
+          "pre_start": 112.732,
+          "end": 130.24,
+          "post_end": 130.24,
+          "level": 2,
+          "label": "extended presentation",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 412,
+          "children": [
+            433,
+            434
+          ],
+          "kind": "HIERARCHY",
+          "hash": "ca01442224ca1ff2f2c440959025dcfa"
+        },
+        "429": {
+          "start": 130.24,
+          "pre_start": 130.24,
+          "end": 138.321,
+          "post_end": 138.321,
+          "level": 2,
+          "label": "cont | cadenza",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 412,
+          "children": [],
+          "kind": "HIERARCHY",
+          "hash": "eef9f38918151ed995550b003b2475b8"
+        },
+        "423": {
+          "start": 138.321,
+          "pre_start": 138.321,
+          "end": 153.739,
+          "post_end": 153.739,
+          "level": 2,
+          "label": "3er (g)",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 421,
+          "children": [],
+          "kind": "HIERARCHY",
+          "hash": "5c1f2bb421d591568634c69b5cc4a711"
+        },
+        "424": {
+          "start": 153.739,
+          "pre_start": 153.739,
+          "end": 169.482,
+          "post_end": 169.482,
+          "level": 2,
+          "label": "4er++",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 421,
+          "children": [
+            436,
+            438,
+            440,
+            441
+          ],
+          "kind": "HIERARCHY",
+          "hash": "5be4d9c1aec0dc7a0b56a747616a40e3"
+        },
+        "442": {
+          "start": 169.482,
+          "pre_start": 169.482,
+          "end": 176.04251979126872,
+          "post_end": 176.04251979126872,
+          "level": 2,
+          "label": "down",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 422,
+          "children": [],
+          "kind": "HIERARCHY",
+          "hash": "846d5650cd965334da19544a68f062fd"
+        },
+        "443": {
+          "start": 176.04251979126872,
+          "pre_start": 176.04251979126872,
+          "end": 184.227,
+          "post_end": 184.227,
+          "level": 2,
+          "label": "up",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 422,
+          "children": [],
+          "kind": "HIERARCHY",
+          "hash": "859f4d920139c29853ffea58c9e11d86"
+        },
+        "446": {
+          "start": 184.227,
+          "pre_start": 184.227,
+          "end": 199.134,
+          "post_end": 199.134,
+          "level": 2,
+          "label": "pres",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 444,
+          "children": [],
+          "kind": "HIERARCHY",
+          "hash": "99173ccb5e99bfbc8c07fdc1937cf688"
+        },
+        "447": {
+          "start": 199.134,
+          "pre_start": 199.134,
+          "end": 236.007,
+          "post_end": 236.007,
+          "level": 2,
+          "label": "cont",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 444,
+          "children": [
+            449,
+            451,
+            452
+          ],
+          "kind": "HIERARCHY",
+          "hash": "1d3814f37619384ab69499aa1a1aa9ab"
+        },
+        "461": {
+          "start": 236.007,
+          "pre_start": 236.007,
+          "end": 242.834,
+          "post_end": 242.834,
+          "level": 2,
+          "label": "hybrid 3",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 470,
+          "children": [
+            474,
+            475
+          ],
+          "kind": "HIERARCHY",
+          "hash": "5690210eac6c0430510d79f9cc79c42f"
+        },
+        "462": {
+          "start": 242.834,
+          "pre_start": 242.834,
+          "end": 249.753,
+          "post_end": 249.753,
+          "level": 2,
+          "label": "repeat",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 470,
+          "children": [],
+          "kind": "HIERARCHY",
+          "hash": "8b3df0132319c2411d217da45245c4ce"
+        },
+        "468": {
+          "start": 249.753,
+          "pre_start": 249.753,
+          "end": 256.185,
+          "post_end": 256.185,
+          "level": 2,
+          "label": "hybrid 1",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 471,
+          "children": [
+            477,
+            478
+          ],
+          "kind": "HIERARCHY",
+          "hash": "3aea8f4c5ff1ec49d30589027b8c9df6"
+        },
+        "469": {
+          "start": 256.185,
+          "pre_start": 256.185,
+          "end": 261.897,
+          "post_end": 261.897,
+          "level": 2,
+          "label": "repeat",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 471,
+          "children": [],
+          "kind": "HIERARCHY",
+          "hash": "8d5141a9f82c9b929743e1ce42a0ebb8"
+        },
+        "480": {
+          "start": 261.897,
+          "pre_start": 261.897,
+          "end": 268.144,
+          "post_end": 268.144,
+          "level": 2,
+          "label": "cad",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "tonic-prolongational",
+          "parent": 463,
+          "children": [],
+          "kind": "HIERARCHY",
+          "hash": "7511b763ad7c7124d5f7cadc18dfc065"
+        },
+        "482": {
+          "start": 268.144,
+          "pre_start": 268.144,
+          "end": 274.436,
+          "post_end": 274.436,
+          "level": 2,
+          "label": "cad'",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 463,
+          "children": [],
+          "kind": "HIERARCHY",
+          "hash": "5a2bdbad38147f16afe3296c47d7d135"
+        },
+        "483": {
+          "start": 274.436,
+          "pre_start": 274.436,
+          "end": 298.306,
+          "post_end": 298.306,
+          "level": 2,
+          "label": "cadenza",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 463,
+          "children": [],
+          "kind": "HIERARCHY",
+          "hash": "27829a1a5c5bd2e7871ce9cbe4934ccd"
+        },
+        "358": {
+          "start": 2.758213181432601,
+          "pre_start": 2.758213181432601,
+          "end": 11.029,
+          "post_end": 11.029,
+          "level": 3,
+          "label": "b.i.",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 355,
+          "children": [],
+          "kind": "HIERARCHY",
+          "hash": "b31829b52227bac44a0ad9a1bd1aa704"
+        },
+        "360": {
+          "start": 11.029,
+          "pre_start": 11.029,
+          "end": 18.877,
+          "post_end": 18.877,
+          "level": 3,
+          "label": "b.i.",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 355,
+          "children": [],
+          "kind": "HIERARCHY",
+          "hash": "6a8c70e6dd60893fc689d959664254f2"
+        },
+        "361": {
+          "start": 18.877,
+          "pre_start": 18.877,
+          "end": 26.772,
+          "post_end": 26.772,
+          "level": 3,
+          "label": "b.i.",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 355,
+          "children": [],
+          "kind": "HIERARCHY",
+          "hash": "4c2aebe303f1ae4651984a865b3dd0b5"
+        },
+        "363": {
+          "start": 26.772,
+          "pre_start": 26.772,
+          "end": 35.735,
+          "post_end": 35.735,
+          "level": 3,
+          "label": "frag > cad ",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 356,
+          "children": [],
+          "kind": "HIERARCHY",
+          "hash": "0fb59ff6ef6106492d8713c3cc9019f5"
+        },
+        "364": {
+          "start": 35.735,
+          "pre_start": 35.735,
+          "end": 54.334,
+          "post_end": 54.334,
+          "level": 3,
+          "label": "post-cadential",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 356,
+          "children": [],
+          "kind": "HIERARCHY",
+          "hash": "f6d35b5fbb9431098ab88537bcf59346"
+        },
+        "399": {
+          "start": 54.334,
+          "pre_start": 54.334,
+          "end": 84.636,
+          "post_end": 84.636,
+          "level": 3,
+          "label": "main theme | sentence",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 387,
+          "children": [
+            390,
+            397
+          ],
+          "kind": "HIERARCHY",
+          "hash": "157be2f75880f83ac80db0401a099613"
+        },
+        "400": {
+          "start": 84.636,
+          "pre_start": 84.636,
+          "end": 109.342,
+          "post_end": 109.342,
+          "level": 3,
+          "label": "subordinate section | loose-knit",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 387,
+          "children": [
+            401,
+            402
+          ],
+          "kind": "HIERARCHY",
+          "hash": "1ecd62adca92edda646b2dc30e53d3d2"
+        },
+        "412": {
+          "start": 112.732,
+          "pre_start": 112.732,
+          "end": 138.321,
+          "post_end": 138.321,
+          "level": 3,
+          "label": "main theme (a) incomplete",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 409,
+          "children": [
+            428,
+            429
+          ],
+          "kind": "HIERARCHY",
+          "hash": "1cc1c833a0716a501fb68f3a1af3fcab"
+        },
+        "421": {
+          "start": 138.321,
+          "pre_start": 138.321,
+          "end": 169.482,
+          "post_end": 169.482,
+          "level": 3,
+          "label": "subordinate section",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 409,
+          "children": [
+            423,
+            424
+          ],
+          "kind": "HIERARCHY",
+          "hash": "8490f1a9204a432eed76dd463d29e454"
+        },
+        "422": {
+          "start": 169.482,
+          "pre_start": 169.482,
+          "end": 184.227,
+          "post_end": 184.227,
+          "level": 3,
+          "label": "cadenza",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 409,
+          "children": [
+            442,
+            443
+          ],
+          "kind": "HIERARCHY",
+          "hash": "41622267afde5b9c635bc3a12daa2918"
+        },
+        "444": {
+          "start": 184.227,
+          "pre_start": 184.227,
+          "end": 236.007,
+          "post_end": 236.007,
+          "level": 3,
+          "label": "main theme (d)",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 410,
+          "children": [
+            446,
+            447
+          ],
+          "kind": "HIERARCHY",
+          "hash": "3e7f9655f279a7d7ecabb8c232b8ff84"
+        },
+        "470": {
+          "start": 236.007,
+          "pre_start": 236.007,
+          "end": 249.753,
+          "post_end": 249.753,
+          "level": 3,
+          "label": "antecedent",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 455,
+          "children": [
+            461,
+            462
+          ],
+          "kind": "HIERARCHY",
+          "hash": "06e53ec5fa510f1cd8e25dd2dcd2feee"
+        },
+        "471": {
+          "start": 249.753,
+          "pre_start": 249.753,
+          "end": 261.897,
+          "post_end": 261.897,
+          "level": 3,
+          "label": "continuation",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 455,
+          "children": [
+            468,
+            469
+          ],
+          "kind": "HIERARCHY",
+          "hash": "e03f87932fe0ee381d1c2cfdb6081b3d"
+        },
+        "463": {
+          "start": 261.897,
+          "pre_start": 261.897,
+          "end": 298.306,
+          "post_end": 298.306,
+          "level": 3,
+          "label": "",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 456,
+          "children": [
+            480,
+            482,
+            483
+          ],
+          "kind": "HIERARCHY",
+          "hash": "be6b3455003bf39e919165a9505a659f"
+        },
+        "464": {
+          "start": 298.306,
+          "pre_start": 298.306,
+          "end": 317.3145322220063,
+          "post_end": 317.3145322220063,
+          "level": 3,
+          "label": "codetta",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "prolongation by means of theme",
+          "parent": 456,
+          "children": [],
+          "kind": "HIERARCHY",
+          "hash": "0a189c006ff676528e8b4e96085b34de"
+        },
+        "355": {
+          "start": 2.758213181432601,
+          "pre_start": 2.758213181432601,
+          "end": 26.772,
+          "post_end": 26.772,
+          "level": 4,
+          "label": "presentation",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 350,
+          "children": [
+            358,
+            360,
+            361
+          ],
+          "kind": "HIERARCHY",
+          "hash": "09b33d6b2e72d71fa961826ec4dec927"
+        },
+        "356": {
+          "start": 26.772,
+          "pre_start": 26.772,
+          "end": 54.334,
+          "post_end": 54.334,
+          "level": 4,
+          "label": "continuation",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 350,
+          "children": [
+            363,
+            364
+          ],
+          "kind": "HIERARCHY",
+          "hash": "398a4dc9c9d75dcdd232f24bcf5c14fa"
+        },
+        "387": {
+          "start": 54.334,
+          "pre_start": 54.334,
+          "end": 109.342,
+          "post_end": 109.342,
+          "level": 4,
+          "label": "1st rotation",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 352,
+          "children": [
+            399,
+            400
+          ],
+          "kind": "HIERARCHY",
+          "hash": "8d431739ca777cbaf71393488974f931"
+        },
+        "409": {
+          "start": 112.732,
+          "pre_start": 112.732,
+          "end": 184.227,
+          "post_end": 184.227,
+          "level": 4,
+          "label": "2nd rotation",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 352,
+          "children": [
+            412,
+            421,
+            422
+          ],
+          "kind": "HIERARCHY",
+          "hash": "f41e94094937875caf31f24033d199b8"
+        },
+        "410": {
+          "start": 184.227,
+          "pre_start": 184.227,
+          "end": 236.007,
+          "post_end": 236.007,
+          "level": 4,
+          "label": "3rd rotation",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 352,
+          "children": [
+            444
+          ],
+          "kind": "HIERARCHY",
+          "hash": "95a6f2acb5b402e8081fb69e7a57033c"
+        },
+        "455": {
+          "start": 236.007,
+          "pre_start": 236.007,
+          "end": 261.897,
+          "post_end": 261.897,
+          "level": 4,
+          "label": "2 related 8ers",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 353,
+          "children": [
+            470,
+            471
+          ],
+          "kind": "HIERARCHY",
+          "hash": "19f4afe5342c1afc7c3bd5df8ffac0e7"
+        },
+        "456": {
+          "start": 261.897,
+          "pre_start": 261.897,
+          "end": 317.3145322220063,
+          "post_end": 317.3145322220063,
+          "level": 4,
+          "label": "ending section",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 353,
+          "children": [
+            463,
+            464
+          ],
+          "kind": "HIERARCHY",
+          "hash": "54ea01761f9ea3b76da619b978eae4fb"
+        },
+        "350": {
+          "start": 2.758213181432601,
+          "pre_start": 2.758213181432601,
+          "end": 54.334,
+          "post_end": 54.334,
+          "level": 5,
+          "label": "Intro|sentence",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 348,
+          "children": [
+            355,
+            356
+          ],
+          "kind": "HIERARCHY",
+          "hash": "ba8ba110ab3afd0751f438aa281ad14c"
+        },
+        "352": {
+          "start": 54.334,
+          "pre_start": 54.334,
+          "end": 236.007,
+          "post_end": 236.007,
+          "level": 5,
+          "label": "1st part",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 348,
+          "children": [
+            387,
+            409,
+            410
+          ],
+          "kind": "HIERARCHY",
+          "hash": "cc0fea1c549cc7ae1850e000baef87e2"
+        },
+        "353": {
+          "start": 236.007,
+          "pre_start": 236.007,
+          "end": 317.3145322220063,
+          "post_end": 317.3145322220063,
+          "level": 5,
+          "label": "2nd part",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 348,
+          "children": [
+            455,
+            456
+          ],
+          "kind": "HIERARCHY",
+          "hash": "105507a6c45117f8a1ea457c82054e82"
+        },
+        "348": {
+          "start": 2.758213181432601,
+          "pre_start": 2.758213181432601,
+          "end": 317.3145322220063,
+          "post_end": 317.3145322220063,
+          "level": 6,
+          "label": "",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": null,
+          "children": [
+            350,
+            352,
+            353
+          ],
+          "kind": "HIERARCHY",
+          "hash": "ab546a4c9205a7fbb1bb0011d5a4a295"
+        }
+      },
+      "components_hash": "7ff86c44a2477f55dd4bdcb8f140921f"
+    },
+    "365": {
+      "kind": "MARKER_TIMELINE",
+      "name": "Cadences",
+      "height": 30,
+      "is_visible": true,
+      "ordinal": 4,
+      "hash": "ffc54e0a55c4e41a3be3412d8871129a",
+      "components": {
+        "366": {
+          "time": 35.735,
+          "comments": "",
+          "label": "HC (d)",
+          "color": null,
+          "kind": "MARKER",
+          "hash": "7bd93e5d712a7b85b4a891563d1e6a54"
+        },
+        "408": {
+          "time": 96.641,
+          "comments": "",
+          "label": "HC (a)",
+          "color": null,
+          "kind": "MARKER",
+          "hash": "59317d6e53c9b5836fde831620c89506"
+        },
+        "453": {
+          "time": 236.007,
+          "comments": "",
+          "label": "PAC.elision",
+          "color": null,
+          "kind": "MARKER",
+          "hash": "5e93248c9c832dfdbcd3970eea2a6a59"
+        },
+        "484": {
+          "time": 268.144,
+          "comments": "",
+          "label": "PAC",
+          "color": null,
+          "kind": "MARKER",
+          "hash": "e213770d3a0ca022d390a90f54aeca4a"
+        },
+        "465": {
+          "time": 298.306,
+          "comments": "",
+          "label": "PAC",
+          "color": null,
+          "kind": "MARKER",
+          "hash": "e98e3c529966fb2d3295253636683faa"
+        }
+      },
+      "components_hash": "bca45432c97c7b6d1bc80d9d1b81916b"
+    },
+    "367": {
+      "kind": "HIERARCHY_TIMELINE",
+      "name": "Alternative",
+      "height": 160,
+      "is_visible": true,
+      "ordinal": 5,
+      "hash": "0536c8e9361fd06fb87c1eba3ee7e5bc",
+      "components": {
+        "376": {
+          "start": 2.599555555425125,
+          "pre_start": 2.599555555425125,
+          "end": 11.029,
+          "post_end": 11.029,
+          "level": 2,
+          "label": "1",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 373,
+          "children": [],
+          "kind": "HIERARCHY",
+          "hash": "540227efda8dc1cb96fbb0e9cbf9dabc"
+        },
+        "378": {
+          "start": 11.029,
+          "pre_start": 11.029,
+          "end": 18.877,
+          "post_end": 18.877,
+          "level": 2,
+          "label": "2",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 373,
+          "children": [],
+          "kind": "HIERARCHY",
+          "hash": "4785249a0f218a5357b156e664ec1164"
+        },
+        "380": {
+          "start": 18.877,
+          "pre_start": 18.877,
+          "end": 26.772,
+          "post_end": 26.772,
+          "level": 2,
+          "label": "3",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 373,
+          "children": [],
+          "kind": "HIERARCHY",
+          "hash": "c00d3fadb7971b5504dccad325aada80"
+        },
+        "381": {
+          "start": 26.772,
+          "pre_start": 26.772,
+          "end": 35.735,
+          "post_end": 35.735,
+          "level": 2,
+          "label": "4",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 373,
+          "children": [],
+          "kind": "HIERARCHY",
+          "hash": "66440aa07435207fc72dc5a55cfcc01c"
+        },
+        "373": {
+          "start": 2.599555555425125,
+          "pre_start": 2.599555555425125,
+          "end": 35.735,
+          "post_end": 35.735,
+          "level": 3,
+          "label": "8-Takter",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 370,
+          "children": [
+            376,
+            378,
+            380,
+            381
+          ],
+          "kind": "HIERARCHY",
+          "hash": "b99b2957d7e2db87eaacd4d47a2d5c58"
+        },
+        "374": {
+          "start": 35.735,
+          "pre_start": 35.735,
+          "end": 54.334,
+          "post_end": 54.334,
+          "level": 3,
+          "label": "Anhang",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 370,
+          "children": [],
+          "kind": "HIERARCHY",
+          "hash": "cd631a3683e3809a6d6551dab790c7ad"
+        },
+        "370": {
+          "start": 2.599555555425125,
+          "pre_start": 2.599555555425125,
+          "end": 54.334,
+          "post_end": 54.334,
+          "level": 4,
+          "label": "8-Takter mit langem Anhang",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 368,
+          "children": [
+            373,
+            374
+          ],
+          "kind": "HIERARCHY",
+          "hash": "283aff5725b244796801df545265b569"
+        },
+        "371": {
+          "start": 54.334,
+          "pre_start": 54.334,
+          "end": 317.6700186799466,
+          "post_end": 317.6700186799466,
+          "level": 4,
+          "label": "",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": 368,
+          "children": [],
+          "kind": "HIERARCHY",
+          "hash": "bc29a4c163cf9280c66fa556a36e00c6"
+        },
+        "368": {
+          "start": 2.599555555425125,
+          "pre_start": 2.599555555425125,
+          "end": 317.6700186799466,
+          "post_end": 317.6700186799466,
+          "level": 5,
+          "label": "",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "parent": null,
+          "children": [
+            370,
+            371
+          ],
+          "kind": "HIERARCHY",
+          "hash": "620281bd78c39a162c02e3575b4412f6"
+        }
+      },
+      "components_hash": "e9a2d9675fe4dd8d0578fff9753a4ad4"
     }
   },
-  "timelines_hash": "d51c9a9ea1e020dc16f2aa200ef0287c",
+  "timelines_hash": "5b9f2556484d7d4a76a7de3c8328940e",
   "app_name": "TiLiA",
   "version": "0.5.0"
 }
