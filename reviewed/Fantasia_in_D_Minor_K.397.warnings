@@ -1,0 +1,5 @@
+Warnings encountered during the last execution of ms3 review
+============================================================
+
+INCORRECT_VOLTA_MN_WARNING (2, 76) ms3.Parse.mozart_piano.Fantasia_in_D_Minor_K397
+	MC 76, the 1st measure of a 2nd volta, should have MN 75, not MN 76.
