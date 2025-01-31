@@ -1,6 +1,6 @@
 {
-  "file_path": "",
-  "media_path": "https://www.youtube.com/watch?v=3Xl5AzB9nhg",
+  "file_path": "C:/Users/hentschel/git/mozart_piano/TiLiA/Kristian Bezuidenhout - W.A. Mozart_ Fantasie in d (KWV 397).tla",
+  "media_path": "C:/Users/hentschel/Nextcloud/Shared/SNF-Projekt Musical Form/Audio/Kristian Bezuidenhout - W.A. Mozart_ Fantasie in d (KWV 397).m4a",
   "media_metadata": {
     "title": "Untitled",
     "notes": "",
@@ -15,10 +15,11 @@
     "form": "",
     "instrumentation": "",
     "genre": "",
-    "lyrics": ""
+    "lyrics": "",
+    "media length": 329.305
   },
   "timelines": {
-    "0": {
+    "2": {
       "is_visible": true,
       "ordinal": 1,
       "height": 40,
