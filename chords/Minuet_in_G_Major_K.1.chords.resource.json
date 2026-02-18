@@ -1,7 +1,7 @@
 {
-  "name": "fantasia_in_d_minor_k.397.chords",
+  "name": "minuet_in_g_major_k.1.chords",
   "type": "table",
-  "path": "Fantasia_in_D_Minor_K.397.chords.tsv",
+  "path": "Minuet_in_G_Major_K.1.chords.tsv",
   "scheme": "file",
   "format": "tsv",
   "mediatype": "text/tsv",
@@ -53,12 +53,6 @@
         "type": "number"
       },
       {
-        "name": "volta",
-        "title": "Volta",
-        "description": "Number of an ending bracket, given as integer.",
-        "type": "integer"
-      },
-      {
         "name": "mc_onset",
         "title": "Offset within Encoded Measure",
         "description": "Distance of an event from the beginning of the <Measure> tag.",
@@ -108,12 +102,6 @@
         }
       },
       {
-        "name": "gracenote",
-        "title": "Grace Note",
-        "description": "Name given to a type of grace note in the MuseScore encoding, e.g. \"grace16\"",
-        "type": "string"
-      },
-      {
         "name": "nominal_duration",
         "title": "Nominal Duration",
         "description": "The duration corresponding to a note/rest value without applying any dots or n-tuplets, as fraction of a whole note. Multiplied with \"scalar\" to yield the actual duration of the note/rest.",
@@ -136,14 +124,6 @@
         "title": "Chord ID",
         "description": "Row in the chords table.",
         "type": "integer"
-      },
-      {
-        "name": "dynamics",
-        "type": "string"
-      },
-      {
-        "name": "articulation",
-        "type": "string"
       },
       {
         "name": "staff_text",
@@ -177,9 +157,9 @@
       }
     ],
     "facet": "chords",
-    "identifier": "K0MIJqzFr7fYyA",
-    "filepath": "chords/K0MIJqzFr7fYyA.schema.yaml",
-    "used_in": "Fantasia_in_D_Minor_K.397"
+    "identifier": "LODPbqImFHfdyA",
+    "filepath": "chords/LODPbqImFHfdyA.schema.yaml",
+    "used_in": "Minuet_in_G_Major_K.1"
   },
   "creator": {
     "@context": "https://schema.org/",

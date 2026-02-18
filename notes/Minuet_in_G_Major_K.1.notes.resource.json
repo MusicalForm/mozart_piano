@@ -1,7 +1,7 @@
 {
-  "name": "fantasia_in_d_minor_k.397.chords",
+  "name": "minuet_in_g_major_k.1.notes",
   "type": "table",
-  "path": "Fantasia_in_D_Minor_K.397.chords.tsv",
+  "path": "Minuet_in_G_Major_K.1.notes.tsv",
   "scheme": "file",
   "format": "tsv",
   "mediatype": "text/tsv",
@@ -53,12 +53,6 @@
         "type": "number"
       },
       {
-        "name": "volta",
-        "title": "Volta",
-        "description": "Number of an ending bracket, given as integer.",
-        "type": "integer"
-      },
-      {
         "name": "mc_onset",
         "title": "Offset within Encoded Measure",
         "description": "Distance of an event from the beginning of the <Measure> tag.",
@@ -75,10 +69,6 @@
         "constraints": {
           "pattern": "\\d+(?:\\/\\d+)?"
         }
-      },
-      {
-        "name": "event",
-        "type": "string"
       },
       {
         "name": "timesig",
@@ -108,12 +98,6 @@
         }
       },
       {
-        "name": "gracenote",
-        "title": "Grace Note",
-        "description": "Name given to a type of grace note in the MuseScore encoding, e.g. \"grace16\"",
-        "type": "string"
-      },
-      {
         "name": "nominal_duration",
         "title": "Nominal Duration",
         "description": "The duration corresponding to a note/rest value without applying any dots or n-tuplets, as fraction of a whole note. Multiplied with \"scalar\" to yield the actual duration of the note/rest.",
@@ -132,54 +116,45 @@
         }
       },
       {
+        "name": "tied",
+        "title": "Tied Note",
+        "description": "1 if a note is tied to the following one, -1 if it is being tied to by the previous one, 0 if both.",
+        "type": "integer"
+      },
+      {
+        "name": "tpc",
+        "title": "Tonal Pitch Class",
+        "description": "Specified on the line of fifths such that 0 = C, 1 = G, -1 = F, etc.",
+        "type": "integer"
+      },
+      {
+        "name": "midi",
+        "title": "MIDI pitch",
+        "description": "Value between 0 and 127 where 60 = C4, 61 = C#4/Db4, etc.",
+        "type": "integer"
+      },
+      {
+        "name": "name",
+        "title": "Name",
+        "type": "string"
+      },
+      {
+        "name": "octave",
+        "title": "Octave",
+        "description": "Octave number where 4 is the middle octave (' in Helmholtz notation).",
+        "type": "integer"
+      },
+      {
         "name": "chord_id",
         "title": "Chord ID",
         "description": "Row in the chords table.",
         "type": "integer"
-      },
-      {
-        "name": "dynamics",
-        "type": "string"
-      },
-      {
-        "name": "articulation",
-        "type": "string"
-      },
-      {
-        "name": "staff_text",
-        "type": "string"
-      },
-      {
-        "name": "tempo",
-        "type": "string"
-      },
-      {
-        "name": "qpm",
-        "type": "string"
-      },
-      {
-        "name": "metronome_base",
-        "type": "string"
-      },
-      {
-        "name": "metronome_number",
-        "type": "string"
-      },
-      {
-        "name": "tempo_visible",
-        "type": "string"
-      },
-      {
-        "name": "slur",
-        "title": "Slur",
-        "description": "IDs of active slurs that a chord falls under, as a tuple of integers.",
-        "type": "string"
       }
     ],
-    "facet": "chords",
-    "identifier": "K0MIJqzFr7fYyA",
-    "filepath": "chords/K0MIJqzFr7fYyA.schema.yaml",
-    "used_in": "Fantasia_in_D_Minor_K.397"
+    "facet": "notes",
+    "identifier": "VvF3LJXVnKvxHg",
+    "filepath": "notes/VvF3LJXVnKvxHg.schema.yaml",
+    "used_in": "Minuet_in_G_Major_K.1"
   },
   "creator": {
     "@context": "https://schema.org/",

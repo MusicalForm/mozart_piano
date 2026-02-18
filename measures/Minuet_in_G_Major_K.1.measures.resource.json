@@ -1,7 +1,7 @@
 {
-  "name": "fantasia_in_d_minor_k.397.measures",
+  "name": "minuet_in_g_major_k.1.measures",
   "type": "table",
-  "path": "Fantasia_in_D_Minor_K.397.measures.tsv",
+  "path": "Minuet_in_G_Major_K.1.measures.tsv",
   "scheme": "file",
   "format": "tsv",
   "mediatype": "text/tsv",
@@ -32,15 +32,6 @@
         "name": "quarterbeats",
         "title": "Offset from Beginning",
         "description": "Distance of an event from the piece's beginning. By default, only second endings are taken into account to reflect the proportions of a simply playthrough without repeats.",
-        "type": "string",
-        "constraints": {
-          "pattern": "\\d+(?:\\/\\d+)?"
-        }
-      },
-      {
-        "name": "quarterbeats_all_endings",
-        "title": "Offset from Beginning (Including Endings)",
-        "description": "Distance from the piece's beginning, taking all endings into account for addressability purposes.",
         "type": "string",
         "constraints": {
           "pattern": "\\d+(?:\\/\\d+)?"
@@ -83,12 +74,6 @@
         }
       },
       {
-        "name": "volta",
-        "title": "Volta",
-        "description": "Number of an ending bracket, given as integer.",
-        "type": "integer"
-      },
-      {
         "name": "numbering_offset",
         "title": "Numbering Offset",
         "description": "An integer to be added to the measure number count, as specified in MuseScore.",
@@ -119,6 +104,22 @@
         "type": "string"
       },
       {
+        "name": "markers",
+        "type": "string"
+      },
+      {
+        "name": "jump_bwd",
+        "type": "string"
+      },
+      {
+        "name": "jump_fwd",
+        "type": "string"
+      },
+      {
+        "name": "play_until",
+        "type": "string"
+      },
+      {
         "name": "next",
         "title": "Next Measure Counts",
         "description": "The \"mc\" values of all <Measure> tags that can follow this one, specified as a tuple of integers.",
@@ -129,9 +130,9 @@
       }
     ],
     "facet": "measures",
-    "identifier": "fl1WmuapX5k3BQ",
-    "filepath": "measures/fl1WmuapX5k3BQ.schema.yaml",
-    "used_in": "Fantasia_in_D_Minor_K.397"
+    "identifier": "x6OuDsojf-RpsA",
+    "filepath": "measures/x6OuDsojf-RpsA.schema.yaml",
+    "used_in": "Minuet_in_G_Major_K.1"
   },
   "creator": {
     "@context": "https://schema.org/",
