@@ -115,6 +115,7 @@
           </Text>
         </VBox>
       <Measure len="1/4">
+        <irregular>1</irregular>
         <voice>
           <Clef>
             <concertClefType>G</concertClefType>
@@ -587,6 +588,7 @@
         </Measure>
       <Measure len="1/4">
         <startRepeat/>
+        <irregular>1</irregular>
         <voice>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -1044,12 +1046,13 @@
         </Measure>
       <Measure len="1/4">
         <startRepeat/>
+        <irregular>1</irregular>
         <voice>
           <KeySig>
             <accidental>0</accidental>
             </KeySig>
           <StaffText>
-            <text><font size="12"/><b>Trio</b></text>
+            <text><font size="12"></font><b>Trio</b></text>
             </StaffText>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -1592,6 +1595,7 @@
         </Measure>
       <Measure len="1/4">
         <startRepeat/>
+        <irregular>1</irregular>
         <voice>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -2094,9 +2098,9 @@
         <endRepeat>2</endRepeat>
         <Jump>
           <style>Repeat Text Right</style>
-          <text>D.C.</text>
+          <text>D.C. al Fine</text>
           <jumpTo>start</jumpTo>
-          <playUntil>end</playUntil>
+          <playUntil>fine</playUntil>
           <continueAt></continueAt>
           </Jump>
         <voice>
